@@ -1,1 +1,1 @@
-1. Projekt z JDBC :)
+1. Projekt z JDBC "hurtownia" :)
