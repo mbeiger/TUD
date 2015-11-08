@@ -1,1 +1,1 @@
-# TUD
+1. Projekt z JDBC :)
